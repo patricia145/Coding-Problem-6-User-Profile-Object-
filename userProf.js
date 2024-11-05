@@ -1,4 +1,4 @@
-let userProfile = {
+let userProf = {
     fullName: "Patricia G. Valdez", 
     age: 19,
     favoriteNumber: 17, 
